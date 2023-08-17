@@ -95,5 +95,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Demo Video
 
-Check out the [demo video][(https://youtu.be/j-jlWhzu9ds) to see the application in action and understand how the background jobs, API endpoints, and other functionalities work.
+Check out the (https://youtu.be/j-jlWhzu9ds) to see the application in action and understand how the background jobs, API endpoints, and other functionalities work.
 
