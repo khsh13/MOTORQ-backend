@@ -92,3 +92,8 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Demo Video
+
+Check out the [demo video](insert_link_here) to see the application in action and understand how the background jobs, API endpoints, and other functionalities work.
+
